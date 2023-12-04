@@ -1,0 +1,26 @@
+{
+    "name": "Ohne Titel",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "storage": "github:calliope-edu/pxt-storage#dadbb60fa22abd70375facdc9f5b5a5073470e6b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.27",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "pyprj"
+}
